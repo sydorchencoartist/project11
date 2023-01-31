@@ -1,0 +1,17 @@
+.images {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+img {
+    display: block;
+    width: 200px;
+
+}
+.images-container {
+    height: 50%;
+    margin: 0 auto;
+    display: block;
+    width: 400px;
+}
